@@ -1,1 +1,1 @@
-# VIT-ISC
+# ISC
